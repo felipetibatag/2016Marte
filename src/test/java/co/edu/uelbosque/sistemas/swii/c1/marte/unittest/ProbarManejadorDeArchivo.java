@@ -27,7 +27,7 @@ public class ProbarManejadorDeArchivo {
     @Test(expectedExceptions = FileNotFoundException.class)
     public void elArchivoNoExiste() throws IOException {
         ManejadorArchivo manejador=new ManejadorArchivo();
-        manejador.setRutaArchivo("reglas.txt");
+        manejador.setRutaArchivo("reglas.txt"); 
     }
     
     @Test
