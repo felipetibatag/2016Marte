@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/felipetibatag/2016Marte.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/felipetibatag/Romanos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\felipe\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\felipe\IdeaProjects\Romanos" />
   </component>
 </application>
